@@ -1,0 +1,8 @@
+A simple implementation of the UNIX tail command in Java.
+
+
+Usage: java -jar tailog.jar [-n number] file
+
+-n number : output the last 'number' of lines from file
+
+Example: java -jar tailog.jar -n 10 somefile.txt

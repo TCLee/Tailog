@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="Tailog/tailog.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Tailog/tailog.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=Tailog/src&lt;com.tclee.tailog{TailogConsole.java[TailogConsole" manifestLocation="/Tailog/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Tailog/src"/>
+        <folder path="/Tailog/doc"/>
+    </selectedElements>
+</jardesc>
